@@ -1,282 +1,177 @@
-<div align="center">
-
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a1628,60:0f2744,100:1a3a5c&height=250&section=header&text=Shailesh%20Gokhale&fontSize=70&fontColor=00d4ff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%204%2B%20Years&descSize=18&descAlignY=62&descColor=7aa2c8&animation=twinkling&stroke=00d4ff&strokeWidth=2" />
-
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=750&height=50&lines=React.js+%7C+Java+%7C+Spring+Boot+%7C+Node.js+%F0%9F%9A%80;Currently+%40+Pinnacle+Teleservices+Pvt+Ltd+%F0%9F%8F%A2;PostgreSQL+%7C+AdonisJS+%7C+TypeScript+%7C+Hibernate;Building+Scalable+%26+High-Performance+Systems+%E2%9A%A1;4%2B+Years+of+Full+Stack+Excellence+%F0%9F%8C%9F" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=shailesh-ss-19-11&label=Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-00d4ff?style=for-the-badge&logo=checkmarx&logoColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/4%2B%20Years-Experience-7c3aed?style=for-the-badge&logoColor=white&labelColor=0d1117" />
-
-<br/><br/>
-
-<!-- SOCIAL LINKS -->
-<a href="https://linkedin.com/in/shailesh-gokhale-react-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="mailto:saileshgokhale81@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="https://dev.to/shaileshss1911">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="https://stackoverflow.com/users/18943522/shailesh-gokhale">
-  <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="https://github.com/shailesh-ss-19-11">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
-
-```yaml
-┌─────────────────────────────────────────────────────────────────┐
-│                    SHAILESH GOKHALE                             │
-│                  Full Stack Developer                           │
-├─────────────────────────────────────────────────────────────────┤
-│  name       : Shailesh Gokhale                                  │
-│  location   : Nagpur / Mumbai, Maharashtra, India               │
-│  role       : Software Engineer (Full Stack)                    │
-│  company    : Pinnacle Teleservices Pvt Ltd  ← CURRENT         │
-│  email      : saileshgokhale81@gmail.com                        │
-│  phone      : +91 8208671941                                    │
-│  linkedin   : linkedin.com/in/shailesh-gokhale-react-dev        │
-│  github     : github.com/shailesh-ss-19-11                      │
-├─────────────────────────────────────────────────────────────────┤
-│  stack      :                                                   │
-│    frontend → React.js · Next.js · TypeScript · Redux          │
-│    backend  → Java · Spring Boot · Node.js · AdonisJS          │
-│    database → PostgreSQL · MySQL · MongoDB · SQL               │
-│    devops   → Docker · AWS · Git · CI/CD · Linux               │
-├─────────────────────────────────────────────────────────────────┤
-│  education  : B.E. Information Technology                       │
-│               Tulsiramji Gaikwad Patil College of Engg & Tech  │
-│  passion    : "Clean code · Scalable systems · Great UX"        │
-└─────────────────────────────────────────────────────────────────┘
-```
+  Shailesh Gokhale | Full Stack Developer  \*, \*::before, \*::after { margin: 0; padding: 0; box-sizing: border-box; } :root { --cyan: #00d4ff; --purple: #7c3aed; --purple-light: #a78bfa; --green: #34d399; --yellow: #fbbf24; --orange: #fb923c; --bg: #080c14; --bg2: #0d1221; --bg3: #111827; --border: rgba(255,255,255,0.06); --border-cyan: rgba(0,212,255,0.2); --text: #e2e8f0; --text-muted: #64748b; --text-dim: #374151; } html { scroll-behavior: smooth; } body { background: var(--bg); color: var(--text); font-family: 'Rajdhani', sans-serif; overflow-x: hidden; min-height: 100vh; } /\* ANIMATED GRID BACKGROUND \*/ body::before { content: ''; position: fixed; inset: 0; background-image: linear-gradient(rgba(0,212,255,0.035) 1px, transparent 1px), linear-gradient(90deg, rgba(0,212,255,0.035) 1px, transparent 1px); background-size: 44px 44px; animation: gridPulse 5s ease-in-out infinite; pointer-events: none; z-index: 0; } @keyframes gridPulse { 0%,100% { opacity:.4; } 50% { opacity:1; } } /\* SCANLINE \*/ body::after { content: ''; position: fixed; top: -100%; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, transparent, rgba(0,212,255,.35), transparent); animation: scanDown 7s linear infinite; pointer-events: none; z-index: 9999; } @keyframes scanDown { to { top: 110%; } } /\* PARTICLES \*/ #particles { position: fixed; inset: 0; pointer-events: none; z-index: 0; } .particle { position: absolute; width: 2px; height: 2px; border-radius: 50%; opacity: 0; animation: floatUp linear infinite; } @keyframes floatUp { 0% { transform: translateY(100vh); opacity: 0; } 10% { opacity: 1; } 90% { opacity: .8; } 100% { transform: translateY(-120px); opacity: 0; } } .wrapper { position: relative; z-index: 1; max-width: 920px; margin: 0 auto; padding: 32px 20px 80px; } /\* ── HERO ── \*/ .hero { text-align: center; padding: 50px 0 36px; position: relative; } .hero-glow { position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); width: 560px; height: 320px; background: radial-gradient(ellipse, rgba(0,212,255,.07) 0%, transparent 70%); pointer-events: none; animation: heroGlow 3.5s ease-in-out infinite; } @keyframes heroGlow { 0%,100% { opacity:.5; transform:translate(-50%,-50%) scale(1); } 50% { opacity:1; transform:translate(-50%,-50%) scale(1.1); } } .avatar-wrap { display: inline-block; position: relative; margin-bottom: 22px; } .ring1, .ring2 { position: absolute; border-radius: 50%; border: 2px solid transparent; } .ring1 { inset: -8px; border-top-color: var(--cyan); border-right-color: var(--cyan); animation: spin 3s linear infinite; } .ring2 { inset: -16px; border-bottom-color: var(--purple); border-left-color: var(--purple); animation: spin 4.5s linear infinite reverse; } @keyframes spin { to { transform: rotate(360deg); } } .avatar { width: 96px; height: 96px; border-radius: 50%; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); border: 3px solid #1a2a3a; display: flex; align-items: center; justify-content: center; font-family: 'JetBrains Mono', monospace; font-size: 30px; font-weight: 800; color: var(--cyan); position: relative; z-index: 1; box-shadow: 0 0 30px rgba(0,212,255,.15); } .hero-name { font-family: 'JetBrains Mono', monospace; font-size: clamp(32px, 6vw, 54px); font-weight: 800; background: linear-gradient(90deg, var(--cyan), var(--purple-light), var(--cyan)); background-size: 200% auto; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; animation: shine 3s linear infinite; margin-bottom: 8px; line-height: 1.1; } @keyframes shine { to { background-position: 200% center; } } .hero-sub { font-size: 14px; color: var(--text-muted); letter-spacing: 4px; text-transform: uppercase; font-family: 'JetBrains Mono', monospace; margin-bottom: 18px; } .typer-wrap { height: 30px; margin-bottom: 28px; display: flex; align-items: center; justify-content: center; } #typer { font-family: 'JetBrains Mono', monospace; font-size: 15px; color: var(--cyan); } #typer::after { content: '|'; color: var(--purple-light); animation: blink .7s step-end infinite; margin-left: 2px; } @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} } .badges { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; } .badge { display: inline-flex; align-items: center; gap: 5px; padding: 5px 14px; border-radius: 20px; font-size: 12px; font-family: 'JetBrains Mono', monospace; font-weight: 700; border: 1px solid; transition: transform .25s, box-shadow .25s; opacity: 0; animation: fadeSlideUp .5s ease forwards; cursor: default; } .badge:hover { transform: translateY(-3px) scale(1.05); box-shadow: 0 0 18px currentColor; } .b-cyan { color:var(--cyan); border-color:rgba(0,212,255,.4); background:rgba(0,212,255,.08); } .b-purple { color:var(--purple-light); border-color:rgba(124,58,237,.4); background:rgba(124,58,237,.08); } .b-green { color:var(--green); border-color:rgba(52,211,153,.4); background:rgba(52,211,153,.08); } .b-orange { color:var(--orange); border-color:rgba(251,146,60,.4); background:rgba(251,146,60,.08); } @keyframes fadeSlideUp { from { opacity:0; transform:translateY(12px); } to { opacity:1; transform:translateY(0); } } /\* ── DIVIDER ── \*/ .divider { height: 1px; background: linear-gradient(90deg, transparent, rgba(0,212,255,.2), rgba(124,58,237,.2), transparent); margin: 10px 0; } /\* ── SECTION HEADER ── \*/ .sec { display: flex; align-items: center; gap: 12px; margin: 40px 0 18px; } .sec-icon { width: 38px; height: 38px; border-radius: 9px; background: rgba(0,212,255,.09); border: 1px solid rgba(0,212,255,.28); display: flex; align-items: center; justify-content: center; font-size: 17px; animation: iconPulse 2.5s ease-in-out infinite; flex-shrink: 0; } @keyframes iconPulse { 0%,100% { box-shadow: 0 0 0 0 rgba(0,212,255,.3); } 50% { box-shadow: 0 0 0 7px rgba(0,212,255,0); } } .sec-title { font-family: 'JetBrains Mono', monospace; font-size: 17px; font-weight: 700; color: var(--text); letter-spacing: 1px; } .sec-line { flex: 1; height: 1px; background: linear-gradient(90deg, rgba(0,212,255,.25), transparent); } /\* ── ABOUT CARD ── \*/ .about-card { background: rgba(255,255,255,.018); border: 1px solid rgba(0,212,255,.14); border-radius: 13px; padding: 22px 24px; font-family: 'JetBrains Mono', monospace; font-size: 13px; position: relative; overflow: hidden; } .about-card::before { content: ''; position: absolute; top:0; left:0; width:3px; height:100%; background: linear-gradient(180deg, var(--cyan), var(--purple)); border-radius: 3px 0 0 3px; } .yl { line-height: 2.1; } .yk { color: #a78bfa; } .yv { color: #a8dadc; } .ys { color: #34d399; } .yc { color: var(--text-dim); } .yi { padding-left: 22px; display: block; } /\* ── TIMELINE ── \*/ .timeline { position: relative; padding-left: 30px; } .timeline::before { content: ''; position: absolute; left: 11px; top:0; bottom:0; width:1px; background: linear-gradient(180deg, var(--cyan), var(--purple), rgba(124,58,237,.08)); } .exp { position: relative; background: rgba(255,255,255,.018); border: 1px solid var(--border); border-radius: 13px; padding: 18px 20px 15px; margin-bottom: 16px; transition: background .3s, border-color .3s, transform .3s, box-shadow .3s; opacity: 0; animation: expIn .5s ease forwards; } .exp:hover { background: rgba(0,212,255,.04); border-color: rgba(0,212,255,.24); transform: translateX(5px); box-shadow: -4px 0 24px rgba(0,212,255,.08); } @keyframes expIn { from { opacity:0; transform:translateX(-16px); } to { opacity:1; transform:translateX(0); } } .exp-dot { position: absolute; left: -26px; top: 21px; width: 13px; height: 13px; border-radius: 50%; border: 2px solid; background: var(--bg); animation: dotPulse 2.2s ease-in-out infinite; } @keyframes dotPulse { 0%,100% { box-shadow: 0 0 0 0 currentColor; } 50% { box-shadow: 0 0 0 5px transparent; } } .dc { color:var(--cyan); border-color:var(--cyan); } .dg { color:var(--green); border-color:var(--green); } .dy { color:var(--yellow); border-color:var(--yellow); } .do { color:var(--orange); border-color:var(--orange); } .dm { color:#6b7280; border-color:#6b7280; } .exp-head { display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 6px; margin-bottom: 5px; } .exp-role { font-size:15px; font-weight:700; color:var(--text); } .exp-co { font-size:13px; color:var(--cyan); font-weight:600; margin-top:2px; } .exp-meta { font-size:11px; color:var(--text-dim); font-family:'JetBrains Mono',monospace; white-space:nowrap; } .exp-desc { font-size:13px; color:var(--text-muted); line-height:1.75; margin:9px 0; } .current-pill { display:inline-flex; align-items:center; gap:4px; padding:2px 10px; border-radius:20px; background:rgba(52,211,153,.1); border:1px solid rgba(52,211,153,.3); color:var(--green); font-size:10px; font-family:'JetBrains Mono',monospace; margin-left:8px; vertical-align:middle; } .live { width:6px; height:6px; border-radius:50%; background:var(--green); display:inline-block; animation:livePulse 1s ease-in-out infinite; } @keyframes livePulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:.4;transform:scale(.7)} } .tags { display:flex; flex-wrap:wrap; gap:5px; margin-top:10px; } .tag { font-size:10px; font-family:'JetBrains Mono',monospace; padding:2px 9px; border-radius:4px; background:rgba(124,58,237,.12); color:#a78bfa; border:1px solid rgba(124,58,237,.2); transition:background .2s; } .tag:hover { background:rgba(124,58,237,.25); } /\* ── EDUCATION ── \*/ .edu { display:flex; align-items:center; gap:14px; background:rgba(255,255,255,.018); border:1px solid rgba(124,58,237,.2); border-radius:12px; padding:15px 18px; margin-bottom:10px; transition:background .3s,border-color .3s; } .edu:hover { background:rgba(124,58,237,.06); border-color:rgba(124,58,237,.4); } .edu-icon { width:42px; height:42px; border-radius:10px; flex-shrink:0; background:rgba(124,58,237,.14); border:1px solid rgba(124,58,237,.28); display:flex; align-items:center; justify-content:center; font-size:19px; } .edu-deg { font-size:14px; font-weight:700; color:var(--text); margin-bottom:2px; } .edu-sch { font-size:12px; color:var(--text-muted); font-family:'JetBrains Mono',monospace; } .edu-yr { font-size:11px; color:var(--purple-light); font-family:'JetBrains Mono',monospace; margin-top:3px; } /\* ── SKILLS ── \*/ .skills-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px,1fr)); gap: 10px; } .skill { background:rgba(255,255,255,.018); border:1px solid var(--border); border-radius:11px; padding:13px 10px; text-align:center; font-family:'JetBrains Mono',monospace; font-size:11px; color:#94a3b8; transition:all .3s; cursor:default; position:relative; overflow:hidden; opacity:0; animation:skillPop .4s ease forwards; } .skill::before { content:''; position:absolute; inset:0; background:linear-gradient(135deg,rgba(0,212,255,.05),transparent); opacity:0; transition:opacity .3s; } .skill:hover { border-color:rgba(0,212,255,.3); color:var(--text); transform:translateY(-4px); box-shadow:0 10px 24px rgba(0,0,0,.35), 0 0 20px rgba(0,212,255,.08); } .skill:hover::before { opacity:1; } @keyframes skillPop { from { opacity:0; transform:scale(.82); } to { opacity:1; transform:scale(1); } } .sk-icon { font-size:22px; margin-bottom:6px; display:block; } .sk-name { display:block; margin-bottom:6px; } .sk-dots { display:flex; gap:3px; justify-content:center; } .sd { width:5px; height:5px; border-radius:50%; background:rgba(255,255,255,.1); transition:background .3s; } .sd.on { background:var(--cyan); } /\* ── STATS ── \*/ .stats-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:12px; } .stat { background:rgba(255,255,255,.018); border:1px solid var(--border); border-radius:13px; padding:18px; text-align:center; position:relative; overflow:hidden; transition:transform .3s, border-color .3s; opacity:0; animation:statRise .6s ease forwards; } .stat::after { content:''; position:absolute; bottom:0; left:0; right:0; height:2px; background:var(--ac); transform:scaleX(0); transition:transform .35s; transform-origin:left; } .stat:hover { transform:translateY(-4px); border-color:rgba(255,255,255,.1); } .stat:hover::after { transform:scaleX(1); } @keyframes statRise { from { opacity:0; transform:translateY(22px); } to { opacity:1; transform:translateY(0); } } .stat-num { font-family:'JetBrains Mono',monospace; font-size:30px; font-weight:800; display:block; margin-bottom:4px; } .stat-lbl { font-size:11px; color:var(--text-dim); font-family:'JetBrains Mono',monospace; letter-spacing:1.5px; text-transform:uppercase; } /\* ── CONTACT ── \*/ .contact-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:10px; } .cl { display:flex; align-items:center; gap:11px; background:rgba(255,255,255,.018); border:1px solid var(--border); border-radius:11px; padding:13px 15px; text-decoration:none; color:#94a3b8; font-size:13px; font-family:'JetBrains Mono',monospace; transition:all .3s; cursor:pointer; } .cl:hover { transform:translateY(-3px); color:var(--text); } .cl-icon { width:34px; height:34px; border-radius:8px; display:flex; align-items:center; justify-content:center; font-size:15px; flex-shrink:0; font-weight:700; } .cl-label { font-size:12px; color:var(--text); display:block; margin-bottom:1px; } .cl-val { font-size:11px; display:block; } /\* ── FOOTER ── \*/ footer { text-align:center; padding:50px 0 24px; font-family:'JetBrains Mono',monospace; font-size:12px; animation:footerPulse 2.5s ease-in-out infinite; } @keyframes footerPulse { 0%,100% { color:#1e293b; } 50% { color:#374151; } } /\* SCROLLBAR \*/ ::-webkit-scrollbar { width:5px; } ::-webkit-scrollbar-track { background:var(--bg); } ::-webkit-scrollbar-thumb { background:rgba(0,212,255,.3); border-radius:3px; }
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+SG
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Work Experience
+Shailesh Gokhale
 
-<details open>
-<summary><b>🔷 Pinnacle Teleservices Pvt Ltd &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Feb 2026 – Present 🟢 CURRENT</b></summary>
-<br/>
+Software Engineer & Full Stack Developer
 
-> 📍 Nagpur, India &nbsp;|&nbsp; Building scalable backend services and full-stack web applications
+📍 Nagpur / Mumbai, India ⚡ 4+ Years Experience 🏢 Pinnacle Teleservices 📞 +91 8208671941
 
-- 🔧 Developing backend applications using **Java, Spring Boot & Hibernate**
-- 🌐 Designing and implementing **RESTful APIs** for system integrations
-- 🗄️ Working with **SQL and PostgreSQL** for database design and optimization
-- ⚛️ Collaborating with **React.js** frontend teams to deliver full-stack solutions
-- ✅ Writing clean, maintainable code following best development practices
-- 🐛 Debugging, testing and improving application performance
+👤
 
-`Java` `Spring Boot` `Hibernate` `React.js` `PostgreSQL` `SQL` `REST APIs` `Git`
+about\_me.yaml
 
-</details>
+name: "Shailesh Gokhale"
 
----
+role: "Full Stack Developer"
 
-<details>
-<summary><b>🟢 Prevoyance IT Solutions Pvt Ltd &nbsp;|&nbsp; Full Stack Developer &nbsp;|&nbsp; Feb 2024 – Jan 2026 (2 Years)</b></summary>
-<br/>
+company: "Pinnacle Teleservices Pvt Ltd" \# Current
 
-> 📍 Nagpur, India &nbsp;|&nbsp; Scalable web apps with focus on backend–database integration
+email: saileshgokhale81@gmail.com
 
-- 🏗️ Built web applications using **AdonisJS, JavaScript & TypeScript**
-- 🗄️ Managed **PostgreSQL & SQL** schemas, queries and optimizations
-- 🔗 Ensured seamless **backend–database integration** for high-performance systems
-- 🎨 Delivered full-stack solutions combining **React.js** frontend with robust backends
-- 📈 Optimized application performance and contributed to architecture decisions
+linkedin: linkedin.com/in/shailesh-gokhale-react-dev
 
-`AdonisJS` `JavaScript` `TypeScript` `PostgreSQL` `SQL` `React.js` `Node.js`
+education: "B.E. Information Technology"
 
-</details>
+specialties:
 
----
+\- React.js · Java · Spring Boot · Node.js \- AdonisJS · TypeScript · PostgreSQL · Hibernate \- Docker · AWS · CI/CD · Apache Kafka
 
-<details>
-<summary><b>🟡 Leo Coders Private Limited &nbsp;|&nbsp; Front-end Developer &nbsp;|&nbsp; Nov 2022 – Dec 2023 (1y 2m)</b></summary>
-<br/>
+passion: "Clean code & scalable architecture"
 
-> 📍 Nagpur, Maharashtra &nbsp;|&nbsp; Crafting interactive and responsive web interfaces
+💼
 
-- ⚛️ Developed dynamic, responsive UI components using **React.js**
-- 🎨 Implemented pixel-perfect designs with **HTML5, CSS3 & JavaScript**
-- 📦 Managed application state using **Redux** for complex data flows
-- 📱 Built mobile-responsive layouts using **Bootstrap & Tailwind CSS**
-- 🔌 Integrated REST APIs and handled asynchronous data flows
+experience.log
 
-`React.js` `Redux` `JavaScript` `HTML5` `CSS3` `Bootstrap` `Tailwind`
+Software Engineer CURRENT
 
-</details>
+🔷 Pinnacle Teleservices Pvt Ltd
 
----
+📍 Nagpur  |  Feb 2026 – Present
 
-<details>
-<summary><b>🟠 Accrualify, Inc. &nbsp;|&nbsp; Associate Software Engineer &nbsp;|&nbsp; Dec 2021 – May 2022 (6m)</b></summary>
-<br/>
+Building scalable backend services with Java, Spring Boot & Hibernate. Designing RESTful APIs for system integrations, working with PostgreSQL for database optimization, and collaborating with React.js frontend teams.
 
-> 📍 Nagpur, Maharashtra &nbsp;|&nbsp; Early career software engineering role
+JavaSpring BootHibernate React.jsPostgreSQLREST APIsGit
 
-- 💻 Developed and maintained web application features
-- 🧪 Participated in code reviews, testing and debugging
-- 📚 Built a strong foundation in software engineering best practices
+Full Stack Developer
 
-`JavaScript` `React.js` `HTML` `CSS` `Git`
+🟢 Prevoyance IT Solutions Pvt Ltd
 
-</details>
+📍 Nagpur  |  Feb 2024 – Jan 2026 · 2 yrs
 
----
+Specialized in scalable web apps using AdonisJS, TypeScript & PostgreSQL. Focused on backend–database integration, performance optimization, and full-stack delivery.
 
-<details>
-<summary><b>🔴 Pixel Values Technolabs &nbsp;|&nbsp; Business Development Executive &nbsp;|&nbsp; Oct 2020 – Oct 2021 (1y)</b></summary>
-<br/>
+AdonisJSTypeScriptJavaScript PostgreSQLSQLReact.jsNode.js
 
-> 📍 Nagpur &nbsp;|&nbsp; Bridging business and technical teams
+Front-end Developer
 
-- 📊 Managed client relationships and business development initiatives
-- 🤝 Coordinated with technical teams on project requirements
-- 📈 Contributed to company growth through client acquisition strategies
+🟡 Leo Coders Private Limited
 
-</details>
+📍 Nagpur  |  Nov 2022 – Dec 2023 · 1y 2m
 
----
+Crafted responsive, pixel-perfect UI components in React.js with Redux state management. Built mobile-first layouts and integrated REST APIs seamlessly.
 
-<details>
-<summary><b>⚪ The Lead Market &nbsp;|&nbsp; Market Research Analyst &nbsp;|&nbsp; Oct 2019 – Oct 2020 (1y)</b></summary>
-<br/>
+React.jsReduxJavaScript HTML5CSS3Bootstrap
 
-> 📍 Nagpur &nbsp;|&nbsp; Data-driven market intelligence
+Associate Software Engineer
 
-- 📉 Conducted market research and competitive analysis
-- 📋 Prepared detailed reports and strategic recommendations
-- 🔍 Identified market trends and growth opportunities
+🟠 Accrualify, Inc.
 
-</details>
+📍 Nagpur  |  Dec 2021 – May 2022 · 6m
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Developed and maintained web application features, participated in code reviews and testing, building a strong software engineering foundation.
 
-## 🎓 Education
+JavaScriptReact.jsHTMLCSSGit
 
-| 🎓 Degree | 🏫 Institution | 📅 Year |
-|-----------|---------------|---------|
-| **B.E. – Information Technology** | Tulsiramji Gaikwad Patil College of Engineering & Technology | 2016 – 2019 |
-| **Diploma – Computer Science & Engineering** | Abha College of Engineering, Wardha Road | 2013 – 2016 |
+Business Development Executive
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+⚪ Pixel Values Technolabs
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+📍 Nagpur  |  Oct 2020 – Oct 2021 · 1 yr
 
-### 🖥️ Frontend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,bootstrap,redux,angular&theme=dark" />
-</p>
+Managed client relationships, coordinated with technical teams, and drove company growth through strategic client acquisition.
 
-### ⚙️ Backend & Frameworks
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,python,django&theme=dark" />
-</p>
+Business DevClient RelationsStrategy
 
-> **Also:** AdonisJS · Hibernate · REST APIs · Apache Kafka · Spring Boot
+Market Research Analyst
 
-### 🗄️ Databases
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase&theme=dark" />
-</p>
+⚪ The Lead Market
 
-### ☁️ DevOps & Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,webpack,jest,postman&theme=dark" />
-</p>
+📍 Nagpur  |  Oct 2019 – Oct 2020 · 1 yr
 
-> **Also:** JIRA · CI/CD · Jenkins · Terraform · Kafka
+Conducted competitive analysis and market research, prepared strategic reports and identified growth opportunities.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Market ResearchAnalysisReporting
 
-## 📊 GitHub Stats
+🎓
 
-<div align="center">
+education.json
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shailesh-ss-19-11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=a8b3c5&ring_color=00d4ff" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-ss-19-11&layout=compact&theme=github_dark&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8b3c5" />
+🎓
 
-<br/><br/>
+B.E. – Information Technology
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shailesh-ss-19-11&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=a8b3c5&dates=374151&stroke=1a2535" />
+Tulsiramji Gaikwad Patil College of Engineering & Technology
 
-</div>
+Sep 2016 – Aug 2019
 
-<br/>
+📜
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shailesh-ss-19-11&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-</div>
+Diploma – Computer Science & Engineering
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Abha College of Engineering, Wardha Road
 
-## 📈 Contribution Activity
+Jul 2013 – Aug 2016
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shailesh-ss-19-11&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&area_color=00d4ff" />
-</div>
+⚙️
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+skills.config
 
-## 🌟 Featured Projects
+📊
 
-<div align="center">
+stats.live
 
-<a href="https://github.com/shailesh-ss-19-11/stock-screener-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shailesh-ss-19-11&repo=stock-screener-app&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=a8b3c5" />
-</a>
+0 years exp
 
-</div>
+0 companies
 
-> 📌 All projects: **[github.com/shailesh-ss-19-11](https://github.com/shailesh-ss-19-11)**
+0 technologies
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+0 roles held
 
-## 🤝 Let's Connect
+🌐
 
-<div align="center">
+connect.sh
 
-| 🔗 Platform | 📬 Link |
-|-------------|---------|
-| 💼 **LinkedIn** | [shailesh-gokhale-react-dev](https://linkedin.com/in/shailesh-gokhale-react-dev) |
-| 🐙 **GitHub** | [shailesh-ss-19-11](https://github.com/shailesh-ss-19-11) |
-| ✍️ **Dev.to** | [shaileshss1911](https://dev.to/shaileshss1911) |
-| 💬 **StackOverflow** | [Shailesh Gokhale](https://stackoverflow.com/users/18943522/shailesh-gokhale) |
-| 📧 **Email** | [saileshgokhale81@gmail.com](mailto:saileshgokhale81@gmail.com) |
-| 📞 **Phone** | +91 8208671941 |
+[
 
-</div>
+in
 
----
+LinkedInshailesh-gokhale-react-dev
 
-<div align="center">
+](https://linkedin.com/in/shailesh-gokhale-react-dev)[
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a3a5c,50:0f2744,100:0d1117&height=130&section=footer&text=Thanks+for+visiting!+⭐&fontSize=28&fontColor=00d4ff&fontAlignY=65&animation=twinkling&stroke=00d4ff&strokeWidth=1" />
+⌨
 
-</div>
+GitHubshailesh-ss-19-11
+
+](https://github.com/shailesh-ss-19-11)[
+
+✉
+
+Gmailsaileshgokhale81@gmail.com
+
+](mailto:saileshgokhale81@gmail.com)[
+
+✍
+
+Dev.toshaileshss1911
+
+](https://dev.to/shaileshss1911)[
+
+◈
+
+StackOverflowShailesh Gokhale
+
+](https://stackoverflow.com/users/18943522/shailesh-gokhale)[
+
+☎
+
+Phone+91 8208671941
+
+](tel:+918208671941)
+
+// designed & built with passion · shailesh gokhale · 2026
+
+// PARTICLES const pc = document.getElementById('particles'); for(let i=0;i<22;i++){ const p = document.createElement('div'); p.className='particle'; p.style.cssText=\` left:${Math.random()\*100}%; animation-duration:${9+Math.random()\*13}s; animation-delay:${Math.random()\*11}s; width:${Math.random()>.5?2:3}px; height:${Math.random()>.5?2:3}px; background:${Math.random()>.6?'#a78bfa':'#00d4ff'}; \`; pc.appendChild(p); } // TYPING const phrases = \[ 'React.js | Java | Spring Boot', 'Full Stack Developer @ Pinnacle', 'Building scalable web systems ⚡', 'PostgreSQL | AdonisJS | TypeScript', 'Open to exciting opportunities 🚀', \]; let pi=0,ci=0,del=false; const te=document.getElementById('typer'); function type(){ const cur=phrases\[pi\]; if(!del){ te.textContent=cur.slice(0,++ci); if(ci===cur.length){del=true;setTimeout(type,1900);return;} setTimeout(type,62); } else { te.textContent=cur.slice(0,--ci); if(ci===0){del=false;pi=(pi+1)%phrases.length;setTimeout(type,320);return;} setTimeout(type,32); } } type(); // SKILLS const skills=\[ {i:'⚛',n:'React.js',l:5},{i:'☕',n:'Java',l:4},{i:'🍃',n:'Spring Boot',l:4}, {i:'🟦',n:'TypeScript',l:4},{i:'🟨',n:'JavaScript',l:5},{i:'🌿',n:'Node.js',l:4}, {i:'🐘',n:'PostgreSQL',l:4},{i:'🍃',n:'MongoDB',l:3},{i:'🐬',n:'MySQL',l:3}, {i:'🎨',n:'CSS3',l:5},{i:'🔴',n:'Redux',l:4},{i:'🐳',n:'Docker',l:3}, {i:'☁',n:'AWS',l:3},{i:'🐙',n:'Git',l:5},{i:'🔥',n:'Firebase',l:3}, {i:'🌀',n:'Tailwind',l:4},{i:'⚡',n:'Kafka',l:3},{i:'🅰',n:'Angular',l:3}, \]; const sg=document.getElementById('skillsGrid'); skills.forEach((s,i)=>{ const c=document.createElement('div'); c.className='skill'; c.style.animationDelay=(i\*.04)+'s'; const dots=Array(5).fill(0).map((\_,d)=>\`<div class="sd${d<s.l?' on':''}"></div>\`).join(''); c.innerHTML=\`<span class="sk-icon">${s.i}</span><span class="sk-name">${s.n}</span><div class="sk-dots">${dots}</div>\`; sg.appendChild(c); }); // COUNTERS function count(id,target){ const el=document.getElementById(id); let n=0,step=target/55; const t=setInterval(()=>{ n+=step; if(n>=target){el.textContent=target;clearInterval(t);return;} el.textContent=Math.floor(n); },18); } setTimeout(()=>{count('c1',4);count('c2',5);count('c3',18);count('c4',6);},500);
