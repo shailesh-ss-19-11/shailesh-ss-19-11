@@ -286,8 +286,7 @@ Conducted competitive analysis · prepared strategic reports · identified marke
 | <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" /> | **GitHub** | [shailesh-ss-19-11](https://github.com/shailesh-ss-19-11) |
 | <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" /> | **Gmail** | [saileshgokhale81@gmail.com](mailto:saileshgokhale81@gmail.com) |
 | <img src="https://img.shields.io/badge/-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" /> | **Dev.to** | [shaileshss1911](https://dev.to/shaileshss1911) |
-| <img src="https://img.shields.io/badge/-F58025?style=flat-square&logo=stackoverflow&logoColor=white" /> | **Stack Overflow** | [Shailesh Gokhale](https://stackoverflow.com/users/18943522/shailesh-gokhale) |
-| 📞 | **Phone** | +91 8208671941 |
+| <img src="https://img.shields.io/badge/-F58025?style=flat-square&logo=stackoverflow&logoColor=white" /> | **Stack Overflow** | [Shailesh Gokhale](https://stackoverflow.com/users/18943522/shailesh-gokhale) 
 
 </div>
 
