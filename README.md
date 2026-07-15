@@ -51,7 +51,6 @@ name       : "Shailesh Gokhale"
 role       : "Full Stack Developer"
 company    : "Pinnacle Teleservices Pvt Ltd"   # ← CURRENT
 email      : saileshgokhale81@gmail.com
-phone      : +91 8208671941
 linkedin   : linkedin.com/in/shailesh-gokhale-react-dev
 github     : github.com/shailesh-ss-19-11
 education  : "B.E. Information Technology"
