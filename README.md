@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080c14" />
 </a>
 &nbsp;
-<a href="mailto:gokhaleshail@gmail.com">
+<a href="mailto:saileshgokhale81@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080c14" />
 </a>
 &nbsp;
@@ -54,7 +54,7 @@
 name       : "Shailesh Gokhale"
 role       : "Full Stack Developer"
 company    : "Pinnacle Teleservices Pvt Ltd"   # ← CURRENT
-email      : gokhaleshail@gmail.com
+email      : saileshgokhale81@gmail.com
 website    : shailesh.tech
 linkedin   : linkedin.com/in/shailesh-gokhale-react-dev
 github     : github.com/shailesh-ss-19-11
@@ -263,7 +263,7 @@ Conducted competitive analysis · prepared strategic reports · identified marke
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shailesh-ss-19-11&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=7aa2c8&dates=374151&stroke=1a2535" />
+<img src="https://streak-stats.demolab.com/?user=shailesh-ss-19-11&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=7aa2c8&dates=374151&stroke=1a2535" />
 
 <br/><br/>
 
@@ -290,7 +290,7 @@ Conducted competitive analysis · prepared strategic reports · identified marke
 | <img src="https://img.shields.io/badge/-00d4ff?style=flat-square&logo=googlechrome&logoColor=white" /> | **Website** | [shailesh.tech](https://shailesh.tech) |
 | <img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> | **LinkedIn** | [shailesh-gokhale-react-dev](https://linkedin.com/in/shailesh-gokhale-react-dev) |
 | <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" /> | **GitHub** | [shailesh-ss-19-11](https://github.com/shailesh-ss-19-11) |
-| <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" /> | **Gmail** | [gokhaleshail@gmail.com](mailto:gokhaleshail@gmail.com) |
+| <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" /> | **Gmail** | [saileshgokhale81@gmail.com](mailto:saileshgokhale81@gmail.com) |
 | <img src="https://img.shields.io/badge/-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" /> | **Dev.to** | [shaileshss1911](https://dev.to/shaileshss1911) |
 | <img src="https://img.shields.io/badge/-F58025?style=flat-square&logo=stackoverflow&logoColor=white" /> | **Stack Overflow** | [Shailesh Gokhale](https://stackoverflow.com/users/18943522/shailesh-gokhale) 
 
