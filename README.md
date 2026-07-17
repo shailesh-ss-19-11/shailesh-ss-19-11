@@ -18,6 +18,10 @@
 
 <br/><br/>
 
+<a href="https://shailesh.tech">
+  <img src="https://img.shields.io/badge/Website-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=080c14&labelColor=080c14" />
+</a>
+&nbsp;
 <a href="https://linkedin.com/in/shailesh-gokhale-react-dev">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080c14" />
 </a>
@@ -51,6 +55,7 @@ name       : "Shailesh Gokhale"
 role       : "Full Stack Developer"
 company    : "Pinnacle Teleservices Pvt Ltd"   # ← CURRENT
 email      : saileshgokhale81@gmail.com
+website    : shailesh.tech
 linkedin   : linkedin.com/in/shailesh-gokhale-react-dev
 github     : github.com/shailesh-ss-19-11
 education  : "B.E. Information Technology"
@@ -282,6 +287,7 @@ Conducted competitive analysis · prepared strategic reports · identified marke
 
 | &nbsp; | Platform | Link |
 |--------|----------|------|
+| <img src="https://img.shields.io/badge/-00d4ff?style=flat-square&logo=googlechrome&logoColor=white" /> | **Website** | [shailesh.tech](https://shailesh.tech) |
 | <img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> | **LinkedIn** | [shailesh-gokhale-react-dev](https://linkedin.com/in/shailesh-gokhale-react-dev) |
 | <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" /> | **GitHub** | [shailesh-ss-19-11](https://github.com/shailesh-ss-19-11) |
 | <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" /> | **Gmail** | [saileshgokhale81@gmail.com](mailto:saileshgokhale81@gmail.com) |
